@@ -55,11 +55,11 @@ machine-learning-internship-projects/
 - **SVM Linear**	
   - Test Accuracy: **90%**
   - AUC (Linear): **1.0000**
-   **SVM RBF**
+   - **SVM RBF**
   - Test Accuracy: **90%**
   - AUC (Linear): **0.9700**
 
-**Visualizations:** Decision Boundaries, Confusion Matrices.
+- **Visualizations:** Decision Boundaries, Confusion Matrices.
 
 ---
 
