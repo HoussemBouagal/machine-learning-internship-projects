@@ -52,9 +52,14 @@ machine-learning-internship-projects/
 - **Goal:** Classify **Versicolor vs Virginica** in the Iris dataset using **SVM**.
 - **Techniques:** Linear & RBF kernels, SMOTE balancing, Decision Boundary visualization.
 - **Highlights:**
+- **SVM Linear**	
   - Test Accuracy: **90%**
   - AUC (Linear): **1.0000**
-- **Visualizations:** Decision Boundaries, Confusion Matrices.
+   **SVM RBF**
+  - Test Accuracy: **90%**
+  - AUC (Linear): **0.9700**
+
+**Visualizations:** Decision Boundaries, Confusion Matrices.
 
 ---
 
