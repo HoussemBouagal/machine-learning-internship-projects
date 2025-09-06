@@ -1,4 +1,4 @@
-# 🔥 Machine Learning Internship Projects (Level 3)
+# 🔥 Machine Learning Internship Projects 
 
 This repository contains **advanced Machine Learning tasks** completed as part of my internship at **Codveda Technologies**.  
 Each task demonstrates expertise in **data preprocessing, model building, hyperparameter tuning, class balancing, evaluation, and visualization**.  
